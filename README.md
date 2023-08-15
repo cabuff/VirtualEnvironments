@@ -12,7 +12,7 @@ change weather: n\
 control water level: page up, page down\
 default water level: end\
 walk: WASD/Arrow keys\
-jump: space\
+jump: space
 
 ### Gamepad
 change environment: X\
